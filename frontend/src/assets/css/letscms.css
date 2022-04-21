@@ -1,0 +1,6 @@
+@import 'bootstrap.min.css';
+@import 'app.min.css';
+@import 'icons.min.css';
+.center-wrapper{
+    margin: 50% 0 0 0;
+}
